@@ -1,5 +1,4 @@
 
-
 // push()
 
 const festa2 = ['Joaquim', 'José', 'Silva', 'Xavier'];
