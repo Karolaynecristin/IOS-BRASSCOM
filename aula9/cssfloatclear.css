@@ -1,0 +1,29 @@
+img {
+    float: center;
+    width: 400px;
+    height: 340px;
+    margin: 10px;
+
+}
+
+.titulo {
+    float: none;
+    height: 50px;
+    margin: 10px;
+    text-align: center;
+}
+
+p {
+    clear: none;
+    text-align: justify;
+}
+
+.subtitulo {
+    float: both;
+    height: 50px;
+    margin: 10px;
+    clear: both;
+    text-align: center;
+    color: rgb(24, 243, 232);
+    font-weight: bold;
+}

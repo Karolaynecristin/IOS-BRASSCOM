@@ -1,0 +1,21 @@
+body {
+    background-image: url(../Aula09/logodc.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.titulo {
+    background-color: rgb(60, 129, 175);
+    text-align: center;
+    font-style: italic;
+
+}
+
+.texto {
+
+    color: rgb(2, 3, 3);
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}

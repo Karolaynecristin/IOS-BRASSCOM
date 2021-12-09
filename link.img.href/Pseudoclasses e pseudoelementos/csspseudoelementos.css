@@ -1,0 +1,50 @@
+.titulo {
+    box-sizing: border-box;
+    width: 100%;
+    margin:20px;
+    text-align: center;
+    color: rgb(4, 99, 99);
+    font-size: 50px;
+}
+
+.subtitulo {
+    color: rgb(8, 137, 189);
+    text-align: center;
+    font-size: 50px;
+} 
+
+.década {
+    color: rgb(9, 128, 128);
+    margin-left: 50px;
+    padding: 10px;
+    font-size: 30px;
+    float: both;
+    margin: 20px;
+}
+
+
+p::selection {
+ font-size: 20px;
+ font-weight: lighter;
+ color: rgb(4, 33, 66);
+ clear: both ;
+} 
+
+p::first-letter {
+    color: rgb(7, 5, 121);
+    text-transform: uppercase;
+    font-size: 50px;
+    font-style: oblique;
+}
+
+p::first-line {
+    color: blue;
+    text-transform: uppercase;
+  }
+
+  @media (max-width:760px) {
+    .text{
+        width: 100%;
+        margin: 10px;
+    }
+} 
